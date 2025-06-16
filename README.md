@@ -1,9 +1,12 @@
-# clinic_crm_bot
+# Clinic CRM bot
 Bot for a medical clinic / Бот для медицинской клиники(студия подологии)  
 
-![Bot in action](./images/example1.gif)
+![Bot in action](./images/example1.gif)  
+![Скриншот интерфейса](./images/Screenshot3.png)  
+![Скриншот интерфейса](./images/Screenshot2.png)![Скриншот интерфейса](./images/Screenshot1.png)
 
-Git Bot Installation and Setup Guide / Гит установка бота:
+
+# Git Bot Installation and Setup Guide / Гит установка бота:
 
 ### 1. Clone the repository / Клонируйте репозиторий
 ```bash
