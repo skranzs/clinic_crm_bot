@@ -1,5 +1,7 @@
 # clinic_crm_bot
-bot for med clinic / бот для медицинской клиники(студия подологии)
+Bot for a medical clinic / Бот для медицинской клиники(студия подологии)  
+
+![Bot in action](./images/example1.gif)
 
 Git Bot Installation and Setup Guide / Гит установка бота:
 
