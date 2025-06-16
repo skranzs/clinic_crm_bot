@@ -15,5 +15,5 @@ python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-### 3. Edit configuration file and load your json key from google cloud console. / Измените файл конфигурации и загрузите свой ключ формата json из google cloud console.
+### 3. Edit configuration file and load your json key from google cloud console / Измените файл конфигурации и загрузите свой ключ формата json из google cloud console
 Name of this file should be "key.json" / Название файла должно быть "key.json"
