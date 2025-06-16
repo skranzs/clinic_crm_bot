@@ -5,8 +5,8 @@ Git Bot Installation and Setup Guide / Гит установка бота:
 
 ### 1. Clone the repository / Клонируйте репозиторий
 ```bash
-git clone https://github.com/your-org/your-bot-repo.git
-cd your-bot-repo
+git clone https://github.com/skranzs/clinic_crm_bot.git
+cd clinic_crm_bot
 ```
 
 ### 2. Install dependencies / Установите зависимости
